@@ -19,6 +19,8 @@ repositories {
 
 dependencies {
     compileOnly "org.spigotmc:spigot-api:1.12.2-R0.1-SNAPSHOT"
+    implementation 'com.sk89q.worldedit:worldedit-core:7.0.1'
+  
 }
 
 def targetJavaVersion = 8
