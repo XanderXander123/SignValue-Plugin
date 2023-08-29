@@ -1,0 +1,3 @@
+name: untitled4
+version: '${version}'
+main: org.ide.language.intel.manage.manager.untitled4.Untitled4
